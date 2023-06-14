@@ -25,7 +25,9 @@
 </div>
 
 <div align="center">
-(https://github.com/Caio-Bruno999/Caio-Bruno999/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 <!--
