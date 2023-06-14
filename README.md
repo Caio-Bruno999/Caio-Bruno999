@@ -4,10 +4,11 @@
 
 <div align="center">
   <a href="github.com/Doug-Ms/"></a>
- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Doug-Ms&show_icons=true&theme=tokyonight" alt="Doug Statistics">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Ms&layout=compact&theme=tokyonight">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Doug-Ms&show_icons=true&theme=tokyonight" alt="Doug Statistics">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Ms&layout=compact&theme=tokyonight">
   <h2 dir="auto"></h2>
 </div>
+
 <div align="center">
     <img align="center" alt="Doug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Doug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
