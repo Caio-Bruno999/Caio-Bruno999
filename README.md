@@ -24,7 +24,10 @@
     <a href="https://www.linkedin.com/in/douglas-messias-da-silva-7937a6203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/Caio-Bruno999/Caio-Bruno999/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+![Snake animation](https://github.com/Caio-Bruno999/Caio-Bruno999/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 <!--
 **Doug-Ms/Doug-Ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
