@@ -1,4 +1,12 @@
-# Caio-Bruno999
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>imagens Github</title>
+</head>
+<body>
+    # Doug-Ms
 
 ## Hello There🖖 I`m Doug Ms
 
@@ -13,6 +21,7 @@
 	<img align="center" alt="Doug-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">	
 	<img align="center" alt="Doug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="Doug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	<img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 	<img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     	<img align="center" alt="Doug-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
    	 <img align="center" alt="Doug-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -28,7 +37,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/Caio-Bruno999/Caio-Bruno999/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Doug-Ms/Doug-Ms/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -45,3 +54,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</body>
+</html>
